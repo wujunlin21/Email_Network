@@ -1,3 +1,9 @@
+///////////////////////////////////////////
+
+Use MapReduce to Analyze Email Network
+
+/////////////////////////////////////////
+
 write a MapReduce program in Java to calculate the maximum of the weights of all outgoing edges for each node in the graph.
 
 Data file stores a list of edges as tab-separated-values.
